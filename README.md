@@ -1,6 +1,6 @@
 # codeforjapan_fellow
 
-| ⚠️ This repository will be archived in the future, this config will no longer be maintained. Thanks for all the stars, help and brainstorms! |
+| ⚠️ This repository has been archived and will no longer be maintained. Thanks for all the stars, help and brainstorms! |
 
 Code for Japanフェロー、オープンデータ  
 https://github.com/codeforjapan/codeforjapan_fellow/blob/main/codeforjapan_fellow.csv  
